@@ -1,7 +1,7 @@
 # bikesharing
 
 Tableau Public Dashboard:
-![link to dashboard](https://public.tableau.com/app/profile/hallie.powell#!/)
+[link to dashboard](https://public.tableau.com/app/profile/hallie.powell#!/)
 
 ## Overview of the Analysis
 
