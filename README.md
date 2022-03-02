@@ -1,5 +1,8 @@
 # bikesharing
 
+Tableau Public Dashboard:
+![link to dashboard](https://public.tableau.com/app/profile/hallie.powell#!/)
+
 ## Overview of the Analysis
 
 The purpose of this analysis was to look at bikeshare data from NYC Citibike to determine if the program would be profitable if it were duplicated in Des Moines, Iowa. We utilized heat maps, line graphs, and bar graphs within Tableau to showcase the data for investors.
@@ -53,5 +56,5 @@ This is a map showing where the starting locations are with larger and darker do
 To summarize the graphs above, men are more likely to use Citibikes than women. Also, the highest usage is during rush hour times, more in the evening than the morning. There is also some ridership on weekends; however, this is less than the weekday commutes. The majority of users are not utilizing the bikes for hours, but are using them for under half an hour, which makes sense if they are commuting to work. From the map, we can see that there are clusters of higher usage in similar areas with less usage in the outskirts of the city. We would need to do more analysis on the types of businesses that are within this area to determine the best places to put new bikes in Des Moines. We would need to target working men in order to begin the bikeshare business and then spread out to engaging women and those who do not work normal business hours.
 
 For further analysis:
-    1. We may want to consider analyzing usage based on birth year to determine the specific age range we would want to target in the new city.
-    2. We may also want to analyze other months. It snows in Iowa in winter, so the bikes may not be usable then. We could see what January ridership is like in NYC for reference. Planning for your worst month is just as important as planning for your best month.
+1. We may want to consider analyzing usage based on birth year to determine the specific age range we would want to target in the new city.
+2. We may also want to analyze other months. It snows in Iowa in winter, so the bikes may not be usable then. We could see what January ridership is like in NYC for reference. Planning for your worst month is just as important as planning for your best month.
